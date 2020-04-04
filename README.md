@@ -1,11 +1,10 @@
 [github]: https://github.com/rayou/docker-youtube-dl
 [app-github]: https://github.com/rg3/youtube-dl
-[microbadger]: https://microbadger.com/images/rayou/youtube-dl
 [dockerstore]: https://hub.docker.com/r/rayou/youtube-dl
 [donation]: https://donorbox.org/rayou?amount=10
 
 # docker-youtube-dl
-[![](https://images.microbadger.com/badges/image/rayou/youtube-dl.svg)][microbadger] [![](https://images.microbadger.com/badges/version/rayou/youtube-dl.svg)][microbadger] [![](https://img.shields.io/docker/stars/rayou/youtube-dl.svg)][dockerstore] [![](https://img.shields.io/badge/Donate-Donorbox-green.svg)][donation]
+[![](https://img.shields.io/docker/image-size/rayou/youtube-dl?sort=semver)][dockerstore] [![](https://img.shields.io/docker/v/rayou/youtube-dl?sort=semver)][dockerstore] [![](https://img.shields.io/docker/stars/rayou/youtube-dl.svg)][dockerstore] [![](https://img.shields.io/badge/Donate-Donorbox-green.svg)][donation]
 
 Docker image of [youtube-dl][app-github].
 
