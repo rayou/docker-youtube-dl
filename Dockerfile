@@ -1,4 +1,4 @@
-FROM python:3.7.2-alpine3.8 as base
+FROM python:3.8.3-alpine3.12 as base
 ARG VERSION
 
 RUN apk update && apk add --no-cache ffmpeg
