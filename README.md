@@ -34,6 +34,12 @@ $ docker run --rm -it rayou/youtube-dl:latest --help
 $ docker run --rm -it --entrypoint=/bin/sh rayou/youtube-dl:latest
 ```
 
+### Download youtube videos in `/tmp/youtube-dl`
+
+```
+$ mkdir -p /tmp/youtube-dl && docker run --rm -it -v /tmp/youtube-dl:/tmp/youtube-dl rayou/youtube-dl:latest -o '/tmp/youtube-dl/%(title)s.%(ext)s' https://www.youtube.com/watch?v=video1 https://www.youtube.com/watch?v=video2
+```
+
 # Documentation
 
 - https://github.com/rg3/youtube-dl/blob/master/README.md#readme
