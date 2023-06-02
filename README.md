@@ -1,11 +1,11 @@
 [github]: https://github.com/rayou/docker-youtube-dl
 [app-github]: https://github.com/rg3/youtube-dl
 [dockerstore]: https://hub.docker.com/r/rayou/youtube-dl
-[donation]: https://donorbox.org/rayou?amount=10
+[donation]: https://www.buymeacoffee.com/rayou
 
 # docker-youtube-dl
 
-[![](https://img.shields.io/docker/image-size/rayou/youtube-dl?sort=semver)][dockerstore] [![](https://img.shields.io/docker/v/rayou/youtube-dl?sort=semver)][dockerstore] [![](https://img.shields.io/docker/stars/rayou/youtube-dl.svg)][dockerstore] [![](https://img.shields.io/badge/Donate-Donorbox-green.svg)][donation]
+[![](https://img.shields.io/docker/image-size/rayou/youtube-dl?sort=semver)][dockerstore] [![](https://img.shields.io/docker/v/rayou/youtube-dl?sort=semver)][dockerstore] [![](https://img.shields.io/docker/stars/rayou/youtube-dl.svg)][dockerstore] [![](https://img.shields.io/badge/☕️-Buy%20Me%20A%20Coffee-important.svg)][donation]
 
 Docker image of [youtube-dl][app-github].
 
@@ -54,7 +54,7 @@ Ray Ou - yuhung.ou@live.com
 
 # Donation
 
-[![](https://d1iczxrky3cnb2.cloudfront.net/button-small-green.png)][donation]
+<a href="https://www.buymeacoffee.com/rayou" target="_blank" rel="noopener noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="280" /></a>
 
 # License
 
